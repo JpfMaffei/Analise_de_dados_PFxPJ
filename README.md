@@ -1,2 +1,2 @@
 # Analise_de_dados_PFxPJ
-Pequeno trabalho de análise de dados para fazer uma regressão linear e comparar as quantidades de infrações cometidas por Pessoas Físicas e Pessoas Jurídicas no estado do RJ em 2024
+Trabalho de análise de dados para exibir a quantidade total de infrações cometidas por PF e PJ e também informar quais foram as mais cometidas por cada um no período de 2024.
